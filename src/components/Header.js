@@ -10,10 +10,7 @@ function Header() {
         messages
       </div>
       <div className="navigation">
-        <Link to="/race">Add F1 Race</Link>
-        <Link to="/result">Add F1 Result</Link>
-        <Link to="/driver">Add F1 Driver </Link>
-        <Link to="/constructor">Add F1 Constructor</Link>
+        <Link to="/">Add F1 Constructor</Link>
       </div>
     </div>
   );

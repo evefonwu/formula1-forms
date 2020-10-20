@@ -15,5 +15,7 @@ export function messageWith(structureErrors, setMessage) {
     msg[key] = `${key} is invalid`;
   }
   console.log(msg);
-  setMessage(msg);
+  setMessage({
+    ...msg,
+  });
 }

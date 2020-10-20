@@ -26,12 +26,6 @@ Start the React application
 npm start
 ```
 
-## Roadmap
-
-- Pull in data to create formula1 race, constructor, driver menus for results entry?
-- Add in date pickers for scheduled formula1 race and driver date of birth?
-- Complete with listing data and editing?
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
